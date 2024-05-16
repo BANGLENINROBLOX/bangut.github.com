@@ -1,1 +1,1 @@
-# bangut.github.com
+# bangut.github.io
